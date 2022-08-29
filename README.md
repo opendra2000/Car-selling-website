@@ -1,4 +1,4 @@
-# Coding-Challenge-MERN-stack
+# MERN-STACK PROJECT
 A car-selling website where one can create a car listing, view all the listings, and see the detailed view of each listing.
 
 
